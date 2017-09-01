@@ -16,7 +16,7 @@
 
 #Enter the file name of the python file you want to convert below
 #You should use its full file path
-pythonFile = "test.py"
+pythonFile = "C:\Users\Kahj Meulman\Documents\JCU Folder\Term 2\Programming I\Songs to learn Assignment\Songs-Assignemnt.py"
 
 
 
